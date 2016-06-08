@@ -1,0 +1,17 @@
+-Dans Documents.html
+>Paragraphe Presse : Ajouter un espace entre un point et "L'étude" (deuxième ligne). 6ème ligne: "je suis donc tombéE". 8ème ligne: "que pose" (pas "posent"). Avant-dernière ligne : mettre un tiret entre "non" et "homogénéisation".
+
+-Dans la frise chronologique:
+>Septembre 2013 : 100 FOIS
+>Fevrier 2014 : "tel que le socialEDU avec Nokia"
+>Mars 2014 : "Lancement DU connectivity lab", "dont le but est de rendre disponible internet via des drones"
+>Avril 2015 : Ajouter un point après "net", pas de I majuscule à "indonésien"
+>Mai 2015 : "AUX développeurs. Chacun a sa chance de voir son site integré à Internet.org" et supprime le reste de la phrase.
+>Septembre 2015 : "Changement de nom, Internet.org devient Free Basics"
+>Octobre 2015 : "UN accès"
+>Novembre 2015 : "...vote un règlement protégeant la neutralité du net"
+>Décembre 2015 : Ajouter un espace entre les mots et les "?". "La TRAI publie un article (CONSULTATION PAPER en italique) qui pose..." 
+>Février 2016 : Ajouter un point à la fin de la phrase
+>Avril 2016 : Ajouter un "e" à Egypte (deux fois)
+
+
